@@ -12,3 +12,6 @@ number = number/10;
 System.out.println("The reverse of the given number is: " + reverse);  
 }  
 }  
+
+
+------------------------------------------------------------------
